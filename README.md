@@ -1,4 +1,4 @@
-# game_4_in_row
+# 4-In-A-Row-Glow
 
 A new Flutter application.
 
